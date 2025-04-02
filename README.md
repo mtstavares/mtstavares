@@ -44,7 +44,7 @@ class Skills extends MatheusTavares {
 ```js
 class ImLearning {
   concepts = [
-    "ES6+", "DOM", "Promises", "REST APIs", "POO", "Cloud Computer"
+    "ES6+", "DOM", "Promises", "REST APIs", "POO", "Cloud Computing"
   ];
   projects = [
     "Currículo Online", "Portfólio com GitHub Pages", "Automação em Python"
