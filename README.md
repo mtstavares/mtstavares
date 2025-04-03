@@ -70,8 +70,8 @@ class ImLearning {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mtstavares&theme=dark&show_icons=true&hide_border=false&count_private=true" width="445"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtstavares&theme=dark&layout=compact&hide_border=false&card_width=445" width="445"/>
+  ![mtstavares's Stats](https://github-readme-stats.vercel.app/api?username=mtstavares&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![mtstavares's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtstavares&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
