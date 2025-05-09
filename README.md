@@ -4,6 +4,8 @@ Meu nome é Matheus Tavares, profissional com formação técnica e experiência
 
 Boa parte dos meus estudos são **autodidatas** — me aventuro por diversas linguagens, bibliotecas e frameworks. Vou de **HTML até Assembly**. Se eu não sei, **eu aprendo!**
 
+Ah, e sim, uso e abuso do ChatGPT nos meus códigos e estudos, acredito que devemos extrair e aproveitar todas as fontes de informações possíveis para nos auxiliar.
+
 ```js
 import Dev from "mtstavares";
 
